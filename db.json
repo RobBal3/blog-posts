@@ -1,0 +1,364 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,, comes from a line in section 1.10.32.",
+      "summary": "This is the first blog post summary.",
+      "img": "https://plus.unsplash.com/premium_photo-1663051160162-e004fc97891e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=379&q=80",
+      "author": {
+        "userId": 1,
+        "name": "John Doe",
+        "email": "johndoe@example.com"
+      },
+      "publicationDate": "2023-07-10",
+      "comments": null
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post",
+      "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,, comes from a line in section 1.10.32.",
+      "summary": "This is the second blog post summary.",
+      "img": "https://images.unsplash.com/photo-1493612276216-ee3925520721?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+      "author": {
+        "userId": 2,
+        "name": "Jane Smith",
+        "email": "janesmith@example.com"
+      },
+      "publicationDate": "2023-07-11",
+      "comments": null
+    },
+    {
+      "id": 3,
+      "title": "Third Blog Post",
+      "content": "Etiam bibendum dui in mi elementum congue. Fusce convallis tristique dapibus.",
+      "summary": "This is the third blog post summary.",
+      "img": "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=939&q=80",
+      "author": {
+        "userId": 3,
+        "name": "David Brown",
+        "email": "davidbrown@example.com"
+      },
+      "publicationDate": "2023-07-12",
+      "comments": null
+    },
+    {
+      "id": 4,
+      "title": "Fourth Blog Post",
+      "content": "Nulla consequat ligula in finibus suscipit.",
+      "summary": "This is the fourth blog post summary.",
+      "img": "https://images.unsplash.com/photo-1509281373149-e957c6296406?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=428&q=80",
+      "author": {
+        "userId": 4,
+        "name": "Emma Johnson",
+        "email": "emmajohnson@example.com"
+      },
+      "publicationDate": "2023-07-13",
+      "comments": null
+    },
+    {
+      "id": 5,
+      "title": "Fifth Blog Post",
+      "content": "Phasellus eleifend metus nec enim congue tincidunt.",
+      "summary": "This is the fifth blog post summary.",
+      "img": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=474&q=80",
+      "author": {
+        "userId": 5,
+        "name": "Michael Wilson",
+        "email": "michaelwilson@example.com"
+      },
+      "publicationDate": "2023-07-14",
+      "comments": null
+    },
+    {
+      "id": 6,
+      "title": "Sixth Blog Post",
+      "content": "Cras ac felis a enim tincidunt ultricies non ac augue.",
+      "summary": "This is the sixth blog post summary.",
+      "img": "https://images.unsplash.com/photo-1550686041-366ad85a1355?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "author": {
+        "userId": 6,
+        "name": "Olivia Davis",
+        "email": "oliviadavis@example.com"
+      },
+      "publicationDate": "2023-07-15",
+      "comments": null
+    },
+    {
+      "id": 7,
+      "title": "Seventh Blog Post",
+      "content": "AContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,, comes from a line in section 1.10.32..",
+      "summary": "This is the seventh blog post summary.",
+      "img": "https://images.unsplash.com/photo-1542978709-19c95dc3bc7e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "author": {
+        "userId": 7,
+        "name": "William Clark",
+        "email": "williamclark@example.com"
+      },
+      "publicationDate": "2023-07-16",
+      "comments": null
+    },
+    {
+      "id": 9,
+      "title": "Ninth Blog Post",
+      "content": "Mauris laoreet est vitae ex interdum faucibus.",
+      "summary": "This is the ninth blog post summary.",
+      "img": "https://images.unsplash.com/photo-1612814621951-b24b753ca716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+      "author": {
+        "userId": 1689511409340,
+        "name": "James Anderson",
+        "email": "jamesanderson@example.com"
+      },
+      "publicationDate": "1689588504927",
+      "comments": [
+        {
+          "id": 1,
+          "userId": 1689588504927,
+          "text": "This is a comment 1"
+        },
+        {
+          "id": 2,
+          "userId": 1690282699500,
+          "text": "This is comment 2"
+        }
+      ]
+    },
+    {
+      "id": 1690295960559,
+      "title": "sskndsk",
+      "content": "sdfsdfsd",
+      "summary": "skdnvsdk",
+      "img": "",
+      "author": {
+        "userId": 1690282699500,
+        "name": "khachik",
+        "email": "khach@gmail.com"
+      },
+      "publicationDate": 1690295960560,
+      "comments": null
+    }
+  ],
+  "users": [
+    {
+      "name": "Robert",
+      "lastname": "Baloyan",
+      "email": "robert.baloyan@gmail.com",
+      "username": "robbal",
+      "password": "1234",
+      "id": 1689588504927
+    },
+    {
+      "name": "khachik",
+      "lastname": "khachikyan",
+      "email": "khach@gmail.com",
+      "username": "khach",
+      "password": "1234",
+      "id": 1690282699500
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "blogId": 9,
+      "username": "James Anderson",
+      "email": "jamesanderson@example.com",
+      "text": "This is Comment 1"
+    },
+    {
+      "id": 2,
+      "blogId": 9,
+      "username": "Vazgen Vazgenyan",
+      "email": "vazgenn@example.com",
+      "text": "This is Comment 2"
+    },
+    {
+      "id": 2,
+      "blogId": 7,
+      "username": "Vazgen Vazgenyan",
+      "email": "vazgenn@example.com",
+      "text": "This is Comment 3"
+    },
+    {
+      "blogId": "9",
+      "username": "RobertBaloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295034062,
+      "text": "dfsdfsdf"
+    },
+    {
+      "blogId": "9",
+      "username": "RobertBaloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295078335,
+      "text": "asdfdsf"
+    },
+    {
+      "blogId": "9",
+      "username": "RobertBaloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295081734,
+      "text": "sdfdsf"
+    },
+    {
+      "blogId": "9",
+      "username": "RobertBaloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295083159,
+      "text": "sfdsdf"
+    },
+    {
+      "blogId": "3",
+      "username": "RobertBaloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295102934,
+      "text": "sdfsdfasd"
+    },
+    {
+      "blogId": "1",
+      "username": "RobertBaloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295227273,
+      "text": "adasd"
+    },
+    {
+      "blogId": "9",
+      "username": "RobertBaloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295457236,
+      "text": "asdads"
+    },
+    {
+      "blogId": "9",
+      "username": "RobertBaloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295459155,
+      "text": ""
+    },
+    {
+      "blogId": "9",
+      "username": "RobertBaloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295461620,
+      "text": "asdasd"
+    },
+    {
+      "blogId": "9",
+      "username": "RobertBaloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295463363,
+      "text": "asdads"
+    },
+    {
+      "blogId": "6",
+      "username": "Robert Baloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295847971,
+      "text": "sdfsdfsd"
+    },
+    {
+      "blogId": "6",
+      "username": "Robert Baloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295850071,
+      "text": "sdfsdf"
+    },
+    {
+      "blogId": "6",
+      "username": "Robert Baloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295855851,
+      "text": "dsfsdfsd"
+    },
+    {
+      "blogId": "6",
+      "username": "Robert Baloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295860243,
+      "text": "dsfsdf"
+    },
+    {
+      "blogId": "7",
+      "username": "Robert Baloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295901101,
+      "text": "vjnvk"
+    },
+    {
+      "blogId": "7",
+      "username": "Robert Baloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295903773,
+      "text": "sdfknfks"
+    },
+    {
+      "blogId": "7",
+      "username": "Robert Baloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690295906730,
+      "text": "xvkndc"
+    },
+    {
+      "blogId": "7",
+      "username": "khachik khachikyan",
+      "email": "khach@gmail.com",
+      "id": 1690295941147,
+      "text": "sdfsdf"
+    },
+    {
+      "blogId": "7",
+      "username": "khachik khachikyan",
+      "email": "khach@gmail.com",
+      "id": 1690295944226,
+      "text": "dsfdsf"
+    },
+    {
+      "blogId": "4",
+      "username": "khachik khachikyan",
+      "email": "khach@gmail.com",
+      "id": 1690296315943,
+      "text": "dfnf"
+    },
+    {
+      "blogId": "4",
+      "username": "khachik khachikyan",
+      "email": "khach@gmail.com",
+      "id": 1690296318315,
+      "text": "dkfng"
+    },
+    {
+      "blogId": "4",
+      "username": "khachik khachikyan",
+      "email": "khach@gmail.com",
+      "id": 1690296328127,
+      "text": "Very good pic\n"
+    },
+    {
+      "blogId": "1",
+      "username": "khachik khachikyan",
+      "email": "khach@gmail.com",
+      "id": 1690296361369,
+      "text": "sdfsdf"
+    },
+    {
+      "blogId": "4",
+      "username": "Robert Baloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690296681799,
+      "text": "sdjvn"
+    },
+    {
+      "blogId": "4",
+      "username": "Robert Baloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690296683863,
+      "text": "sdndsf"
+    },
+    {
+      "blogId": "9",
+      "username": "Robert Baloyan",
+      "email": "robert.baloyan@gmail.com",
+      "id": 1690296989240,
+      "text": "adsasd"
+    }
+  ]
+}
